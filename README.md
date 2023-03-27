@@ -28,10 +28,3 @@ If you encounter any issues with the app, please check the Laravel logs located 
 ## Credits
 
 This app was created by [Jagadeeshwar Goshika](https://github.com/jagadishwar2010) using Laravel and OpenAI's API.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-
-
